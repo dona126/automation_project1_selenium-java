@@ -41,7 +41,7 @@ public class RoughClass {
 
         // Locate the search box
         WebElement searchBox = driver.findElement(By.xpath("//*[@id=\"sm-div\"]/div[1]/div/div[1]/div/input"));
-        searchBox.sendKeys("dog food");
+        searchBox.sendKeys("cat food");
     }
 
     @AfterClass
