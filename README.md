@@ -1,4 +1,4 @@
-# automation_project1_selenium-java
+# selenium-java-automation-project1
 
 This project contains Selenium automation scripts using Java and TestNG.
 
