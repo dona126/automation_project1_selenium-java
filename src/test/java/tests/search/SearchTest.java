@@ -9,6 +9,6 @@ public class SearchTest extends BaseTest {
     public void testSearchFunctionality() {
         HomePage homePage = new HomePage(driver);
         homePage.enterSearchText("Selenium WebDriver");
-        System.out.println("Search test executed");
+        System.out.println("Search test executed!!!!!!!!!!!!!!!");
     }
 }
